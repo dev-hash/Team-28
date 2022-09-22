@@ -3,6 +3,10 @@ Team Name-:Team-28
 Team Members-:
 1.Devendra Lowanshi
 2.Neha Sahu
+<<<<<<< HEAD
+3.Amit Rajeshbhai Baghamshi
+=======
 3.Amit Vaghamshi
+>>>>>>> 7ada0534ed70d47cfc8c79678b9d05f92f9069f7
 4.Firdous Shaikh
 5.Pujarini Sahoo
